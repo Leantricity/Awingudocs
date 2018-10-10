@@ -1,0 +1,26 @@
+= Piloto Awingu
+
+== Qué es Awingu
+
+El objetivo de Awingu es brindarnos un único punto de acceso a aplicaciones y ficheros en cualquier dispositivo sin necesidad de instalar agentes específicos, ya que el acceso se realiza por medio de un *navegador HTML5.*
+
+Awingu nos ofrece un espacio de trabajo consistente, optimizado para cada dispositivo, proveyendo acceso seguro a las aplicaciones históricas (“Legacy IT”), los nuevos servicios en la nube (SaaS, Cloud) y a cualquier aplicación publicada por medio de Windows RDP.
+
+ Un párrafo literal se muestra
+ en una cosa gris aparte donde se
+ preservan los espacios y cortes.
+
+TIP: Este es un tip
+
+IMPORTANT: Important
+
+WARNING: Warning
+
+CAUTION: Caution
+
+Veamos los xref:requerimientos_Awingu.adoc[Requerimientos Awingu]
+
+* [ ] not checked
+* [*] checked
+
+image::pipeline-workflow.png[a diagram illustrating the pipeline stages]
